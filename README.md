@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MAX-786
-- 👀 I’m interested in Web Development ,Competitive Programming ,Machine Learning. 
+- 👀 I’m interested in Web Development,Competitive Programming ,Machine Learning. 
 - 🌱 I’m currently learning Python for Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+-  ✔   What i learned == Web Development(HTML,CSS) ,(C++) ,(Python Basics). 
+- 💞️ I’m looking to collaborate on web design and IN HACKATHONS.
 - 📫 How to reach me --- Dm me on my insta @stilltenacious. 
 
 <!---
