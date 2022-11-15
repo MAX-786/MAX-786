@@ -26,7 +26,7 @@
 <br />
 
 ---
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAX-786&show_icons=true&theme=transparent)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAX-786&show_icons=true&theme=transparent) 
 ---
 [![@max786's Holopin board](https://holopin.me/max786)](https://holopin.io/@max786)
 <!---
