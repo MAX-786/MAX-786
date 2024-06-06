@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech enthusiasts 
 - 💞️ I’m looking to collaborate on web design and IN HACKATHONS.
-- 🥅 2022 Goals: Learn more about startups
+- 🥅 2024 Goals: Learn more about us
 - ⚡ Fun fact: I love to write urdu shayeri and play piano
 
 ### Connect with me:
