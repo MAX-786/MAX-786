@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Hi there, I'm Mohammad - aka [MAX](https://twitter.com/max_78653) 👋 
+# Hi there, I'm Mohammad 👋 
 # 💫 About Me:
 🔭 currently working on~ volto-hydra<br>🌱 currently learning~ application testing<br> ❤️ 53
 
