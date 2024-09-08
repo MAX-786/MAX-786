@@ -2,33 +2,25 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 # Hi there, I'm Mohammad - aka [MAX](https://twitter.com/max_78653) 👋 
+# 💫 About Me:
+🔭 currently working on~ volto-hydra<br>🌱 currently learning~ application testing<br> ❤️ 53
 
-## I'm a Student, Developer, and Explorer!!
+---
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other tech enthusiasts 
-- 💞️ I’m looking to collaborate on web design and IN HACKATHONS.
-- 🥅 2024 Goals: Learn more about us
-- ⚡ Fun fact: I love to write urdu shayeri and play piano
+### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-k-hussain/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/itsMKH072) 
 
-### Connect with me:
+---
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="26px" title="Twitter" />](https://twitter.com/max_78653)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="26px" title="Instagram" />](https://instagram.com/stilltenacious)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="26px" title="LinkedIn" />](https://www.linkedin.com/in/mohammad-hussain-8664a022a/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="26px" title="StackOverflow" />](https://stackoverflow.com/users/20174042/mohammad-hussain)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="26px" title="Quora"/>](https://www.quora.com/profile/Mohammad-Hussain-181)
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MAX-786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-### Languages and Tools:
-
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="30px" title="Python" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="30" title="React" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="30" title="Sass" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="30" title="JSON" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="30" title="JavaScript" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="30" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30" title="MongoDB" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="30" title="Ubuntu" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="30" title="Microsoft Windows" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="30" title="Visual Studio Code" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="30" title="Auth0" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Nodejs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="30" title="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="30" title="Heroku" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap" />
+---
 <br />
 <br />
 
----
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAX-786) 
----
-[![@max786's Holopin board](https://holopin.me/max786)](https://holopin.io/@max786)
 <!---
 MAX-786/MAX-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
