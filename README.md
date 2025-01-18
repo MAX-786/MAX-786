@@ -4,7 +4,7 @@
 # Hi there, I'm Mohammad 👋 
 ❤️ 53
 # 💫 About Me:
-🔭 currently working on~ volto-hydra<br>🌱 currently learning~ application testing<br> 🌞 GSoC 24 @Plone <br>
+🔭 currently working on~ volto-hydra<br>🌱 currently learning~ remixJS🔥 , application testing<br> 🌞 GSoC 24 @Plone <br>
 ---
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-k-hussain/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/itsMKH072) 
