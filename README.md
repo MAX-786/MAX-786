@@ -4,7 +4,7 @@
 # Hi there, I'm Mohammad 👋 
 ❤️ 53 
 # 💫 About Me:
- 🌱 currently exploring~ MCP servers🔥 , Zustand <br> 🌞 GSoC 24 @Plone <br>
+ 🌱 currently ~ Open Source Gardening, Purging Bugs🔥 , Kika is my companion <br> 🌞 GSoC 24 @Plone <br>
 ---
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-k-hussain/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsMKH072) 
