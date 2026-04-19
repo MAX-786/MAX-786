@@ -119,7 +119,7 @@ const hiphen = {
 <a href="https://github.com/MAX-786/ApnaProfessor">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=ApnaProfessor&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
 </a>
-<a href="https://mkhismkh.com">
+<a href="https://github.com/MAX-786/portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=mkhismkh.com&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
 </a>
 
@@ -152,33 +152,6 @@ const hiphen = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> cat achievements.txt`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAX-786&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  🎤  Plone Conf 2024 (Brasília)  ·  Invited Speaker                │
-│      Delivered lightning talk on Volto Hydra editor architecture     │
-│                                                                     │
-│  🧠  LeetCode  ·  750+ Problems Solved                             │
-│      Algorithms & Data Structures — profile: HiPHEN001              │
-│                                                                     │
-│  🏦  Bank of Baroda Hackathon  ·  Top 10 Finalist                  │
-│      "myFiM" — personal finance chatbot                             │
-│                                                                     │
-│  🌍  Google Summer of Code 2024  ·  Plone Foundation                │
-│      Built Volto Hydra — decoupled editing for Plone CMS            │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> cat contribution_graph.log`
 
