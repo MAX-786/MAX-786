@@ -179,7 +179,7 @@ const hiphen = {
 <a href="mailto:hussainmohammad328@gmail.com">
 <img src="https://img.shields.io/badge/Let's_Talk-050505?style=for-the-badge&logo=minutemailer&logoColor=8B0000" alt="Email Me"/>
 </a>
-<a href="https://mkhismkh.com">
+<a href="https://mkhismkh.com/process-tape">
 <img src="https://img.shields.io/badge/Read_My_Garden-050505?style=for-the-badge&logo=mdbook&logoColor=8B0000" alt="Digital Garden"/>
 </a>
 
