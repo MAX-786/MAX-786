@@ -116,11 +116,11 @@ const hiphen = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=collective&repo=volto-hydra&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
 </a>
 
-<a href="https://github.com/MAX-786/ApnaProfessor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=ApnaProfessor&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
+<a href="https://github.com/MAX-786/saveland">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=saveland&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
 </a>
 <a href="https://github.com/MAX-786/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=mkhismkh.com&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MAX-786&repo=portfolio&hide_border=true&bg_color=050505&title_color=8B0000&text_color=EAE6DF&icon_color=8B0000&border_color=333333" />
 </a>
 
 </div>
